@@ -8,6 +8,10 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ### The Eas(iest) Way
 
+## Tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/architmadankar/PublicLeech/tree/master)
+
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
 
 - Start docker daemon [skip if already running]:
